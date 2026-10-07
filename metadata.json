@@ -1,0 +1,8 @@
+{
+  "name": "Escriturando Certo Academy",
+  "description": "Plataforma de treinamento e streaming exclusiva para franqueados Escriturando Certo, focada em marketing, vendas, gestão e alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
